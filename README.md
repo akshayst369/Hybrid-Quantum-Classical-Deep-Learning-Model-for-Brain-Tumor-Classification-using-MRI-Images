@@ -1,0 +1,2 @@
+# Hybrid-Quantum-Classical-Deep-Learning-Model-for-Brain-Tumor-Classification-using-MRI-Images
+A Hybrid Quantum-Classical Deep Learning model (HQCNN) for brain tumor classification using MRI scans. Fuses classical CNN backbones with Variational Quantum Circuits (VQC) using PennyLane &amp; PyTorch to classify Glioma, Meningioma, and Pituitary tumors. Optimized for high parameter efficiency and superior feature generalization.
